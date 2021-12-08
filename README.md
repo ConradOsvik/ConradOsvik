@@ -2,6 +2,8 @@
 
 **I'm Conrad Osvik**
 
+I'm a freelance programmer
+
 **Technologies I work with:**
 - Html <img src="/assets/images/html.png" alt="Html logo" height="20">
 - CSS <img src="/assets/images/css.png" alt="Css logo" height="20">
