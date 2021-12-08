@@ -1,6 +1,6 @@
 ### Hey there👋
 
-**I'm @ConradOsvik**
+**I'm Conrad Osvik**
 
 **Technologies I work with:**
 - Html <img src="/assets/images/html.png" alt="Html logo" height="20">
