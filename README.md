@@ -20,3 +20,5 @@
 - Rust
 - C++
 - C#
+- Angular
+- Vue
