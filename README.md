@@ -1,6 +1,6 @@
 ### Hey there👋
 
-**Technologies i work with:**
+**Technologies I work with:**
 - Html <img src="/assets/images/html.png" alt="Html logo" height="20">
 - CSS <img src="/assets/images/css.png" alt="Css logo" height="20">
 - JavaScript <img src="/assets/images/javascript.png" alt="JS logo" height="20">
@@ -13,6 +13,7 @@
 - Python <img src="/assets/images/python.png" alt="Python logo" height="20">
 - Jest / React Testing Library
 
+**Technologies I want to learn:**
 
 <!--
 **ConradOsvik/ConradOsvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
