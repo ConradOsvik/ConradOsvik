@@ -16,11 +16,11 @@ I'm a freelance programmer
 - TypeScript <img src="/assets/images/typescript.png" alt="TS logo" height="20">
 - Python <img src="/assets/images/python.png" alt="Python logo" height="20">
 - Jest / React Testing Library
+- C++
 
 **Technologies I want to learn:**
 - Go
 - Rust
-- C++
 - C#
 - Angular
 - Vue
