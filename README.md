@@ -15,10 +15,9 @@ I'm a freelance programmer
 - Next.JS <img src="/assets/images/next.png" alt="Next logo" height="20">
 - TypeScript <img src="/assets/images/typescript.png" alt="TS logo" height="20">
 - Python <img src="/assets/images/python.png" alt="Python logo" height="20">
-- Jest / React Testing Library
-- C++
 
 **Technologies I want to learn:**
+- C++
 - Go
 - Rust
 - C#
