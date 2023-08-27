@@ -10,11 +10,12 @@ I'm a freelance programmer
 - JavaScript <img src="/assets/images/javascript.png" alt="JS logo" height="20">
 - React <img src="/assets/images/react.png" alt="React logo" height="20">
 - Svelte <img src="/assets/images/svelte.png" alt="Svelte logo" height="20">
+- TypeScript <img src="/assets/images/typescript.png" alt="TS logo" height="20">
+- Next.JS <img src="/assets/images/next.png" alt="Next logo" height="20">
 
 **Technologies I'm learning:**
-- Next.JS <img src="/assets/images/next.png" alt="Next logo" height="20">
-- TypeScript <img src="/assets/images/typescript.png" alt="TS logo" height="20">
 - Python <img src="/assets/images/python.png" alt="Python logo" height="20">
+- Java
 
 **Technologies I want to learn:**
 - C++
