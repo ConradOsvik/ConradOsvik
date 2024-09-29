@@ -15,10 +15,13 @@ I study BE in computer science at NTNU
 - Python <img src="/assets/images/python.png" alt="Python logo" height="20">
 - Java
 
+**Technologies I'm learning:**
+- Rust
+- C
+
 **Technologies I want to learn:**
 - C++
 - Go
-- Rust
 - C#
 - Angular
 - Vue
