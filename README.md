@@ -2,7 +2,7 @@
 
 **I'm Conrad Osvik**
 
-I study BE in computer science at NTNU
+I'm studying a BE in computer science at NTNU
 
 **Technologies I work with:**
 - Html <img src="/assets/images/html.png" alt="Html logo" height="20">
